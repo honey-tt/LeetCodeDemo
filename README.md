@@ -1,4 +1,5 @@
 # LeetCodeDemo
 Topic analysis on leetcode<br>
-题目均来自LeetCode,如有侵权可立即删除 <br>
-链接：https://leetcode-cn.com/problemset/all/  <br>
+It is divided into three parts: simple, medium and difficult
+The title is from leetcode, if there is infringement, it can be deleted immediately <br>
+link：https://leetcode-cn.com/problemset/all/  <br>
