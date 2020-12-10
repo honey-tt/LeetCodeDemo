@@ -13,4 +13,5 @@
 69. x 的平方根 —— MySqrtDemo.java <br>
 70. 爬楼梯  ——  ClimbStairsDemo.java <br>
 88. 合并两个有序数组 —— MergeDemo.java <br>
+136. 只出现一次的数字 ——SingleNumberDemo.java <br>
 1207. 独一无二的出现次数  —— UniqueOccurrencesDemo.java<br>
